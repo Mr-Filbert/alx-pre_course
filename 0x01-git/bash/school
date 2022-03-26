@@ -1,19 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-echo "The school is open"
-=======
->>>>>>> update_script
-<<<<<<< HEAD
 echo "The school is open!"
-=======
-echo "The school is open"
->>>>>>> update_script
-<<<<<<< HEAD
-=======
-echo "The school is open"
->>>>>>> update_script
-=======
->>>>>>> 7f7ae11281e1db7d4d36b796ec9e5caf85978311
->>>>>>> update_script
